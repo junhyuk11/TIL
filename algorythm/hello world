@@ -1,3 +1,7 @@
 print("hello world")
+<<<<<<< HEAD
 print("good")
 print("ppp")
+=======
+print("good")
+>>>>>>> 3d95b0bc1e9290c02681e46a9fe146f5e1fe94dd
